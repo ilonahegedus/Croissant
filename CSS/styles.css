@@ -1,0 +1,16 @@
+body {
+  display: block;
+  text-align: center;
+  background: rgb(168, 206, 168);
+  padding: 20px;
+}
+
+h1 {
+  font-size: 18;
+  color: indigo;
+}
+
+p {
+  font-size: 16;
+  color: indigo;
+}
